@@ -7,7 +7,9 @@ Trying to share my journey of AWS CSAA learning. Hope everyone in the community 
 
 These are my notes from my study plan may not work for everyone. But please feel free to use these notes if it is beneficial for you, as we already know everyone got his/her own way of learning things. Please ignore if this is not useful for you.🙏
 
-### My learning sources
+============================================================
+
+## My learning sources
   I have **purchased** below courses from **Udemy**.
 
 Studied AWS CSAA course from Udemy taught by **Ryan Kroonenburg** from [A cloud Guru](https://acloud.guru/) team.
@@ -17,8 +19,6 @@ Practice Exams
 * [AWS Certified Solutions Architect Associate Practice Exams by **Neal Davis, Digital Cloud Training**](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-k/)
 * [AWS Certified Solutions Architect Associate Practice Exams by **Jon Bonso, Tutorials Dojo**](https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practice-exams/)
 
-
-============================================================
 
 ## About the course
    A cloud Guru course via Udemy is huge and in order to explain to you the basic concepts, All the concepts are nicely explained. Few topics were explained in more detail then needed, But it is always good to know more when learning. I'll do my best to include every thing in my notes.
